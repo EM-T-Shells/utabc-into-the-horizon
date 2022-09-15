@@ -10,7 +10,7 @@ body {
 
 /*header & navigation*/
 header {
-    padding: 20px;
+    padding: 20px 0px 0px 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -19,6 +19,9 @@ header {
 h1 {
     display: inline-block;
     font-size: 48px;
+    padding-left: 75px;
+    padding-bottom: 19px;
+    line-height: 80%;
 }
 
 .seo {
@@ -26,11 +29,11 @@ h1 {
 }
 
 nav {
-    padding-top: 15px;
-    margin-right: 20px;
+    padding-top: 35px;
+    margin-right: 15px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 ul {
@@ -48,34 +51,45 @@ a {
 }
 
 /*banner image*/
-section {
-    height: 800px;
+.bannerimage {
+    height: auto;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    background-size:cover;
     background-position: center;
 }
 
 /*main articles*/
 main {
     display: inline-block;
-    margin-left: 20px;
     width: 75%;
+    margin-left: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
     color: #ffffff;
 }
-
-main article {
-    display: inline-block;
-    height: 300px;
+ 
+.content {
+    height: 270px;
     margin-bottom: 20px;
-    padding: 50px;
+    background-color: #0072bb;
+    text-align: center;
 }
 
-main img {
-    max-height: 200px;
+.content img {
+    height: 98%;
+    width: auto;
+}
+
+.content img, .content h2, .content p {
+    padding: 20px;
+}
+
+.content h2 {
+    font-size: 36px;
+}
+
+.content p {
+    font-size: 20px;
 }
 
 .float-left {
@@ -88,20 +102,11 @@ main img {
     margin-left: 25px;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-p {
-    font-size: 16px;
-}
-
 /*aside articles*/
 
 .benefits {
+    padding: 16px;
     margin-right: 20px;
-    padding: 20px;
     clear: both;
     float: right;
     width: 20%;
