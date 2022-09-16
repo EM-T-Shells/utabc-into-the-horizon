@@ -1,3 +1,5 @@
+/*resets the users respective browser's default style settings*/
+/*avoid's browser misinterpretation of the source code's desired display*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,41 +10,58 @@ body {
     background-color: #d9dcd6;
 }
 
-/*header & navigation*/
+
 header {
-    padding: 20px 0px 0px 10px;
+    /*padding: 20px 0px 0px 10px;*/
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
+/*allows horizontal positioning of sibling elements*/
+/*retains vertical integrity. gives full block width*/
 h1 {
     display: inline-block;
     font-size: 48px;
-    padding-left: 75px;
-    padding-bottom: 19px;
-    line-height: 80%;
+    padding: 35px 0px 0px 75px;
+    line-height: 90%;
+}
+
+/*appealing "horizon" decoration to play-on client company name*/
+h1:after{
+    content: "";
+    position: absolute;
+    height: 70px;
+    width: 215px;
+    left: 68px;
+    top: 6px;
+    border-top: 1.5px solid white;
+    border-radius: 50%;
 }
 
 .seo {
     color: #d9dcd6;
+   
 }
 
+/*for better UI navigation experience and overall page appeal*/
 nav {
-    padding-top: 35px;
-    margin-right: 15px;
+    padding-top: 30px;
+    margin-right: 55px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
 }
 
+/*take away bullet points*/
 ul {
     list-style-type: none;
 }
 
+/*horizontal alignment of list items*/
 li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 55px;
 }
 
 a {
@@ -50,7 +69,8 @@ a {
     text-decoration: none;
 }
 
-/*banner image*/
+/*will allow the top image to size itself within it's original dimensions*/
+/*won't appear 'stretched'*/
 .bannerimage {
     height: auto;
     width: 100%;
@@ -59,7 +79,8 @@ a {
     background-position: center;
 }
 
-/*main articles*/
+/*display set to allow resizing of main element's child elements*/
+/*also allows aside element position to flow naturally to the right side of page*/
 main {
     display: inline-block;
     width: 75%;
@@ -69,7 +90,7 @@ main {
 }
  
 .content {
-    height: 270px;
+    height: 250px;
     margin-bottom: 20px;
     background-color: #0072bb;
     text-align: center;
@@ -80,10 +101,6 @@ main {
     width: auto;
 }
 
-.content img, .content h2, .content p {
-    padding: 20px;
-}
-
 .content h2 {
     font-size: 36px;
 }
@@ -92,6 +109,12 @@ main {
     font-size: 20px;
 }
 
+/*better alignment and spacing of the child elements inside the main article parent elements*/
+.content img, .content h2, .content p {
+    padding: 20px;
+}
+
+/*positioning main article image to left or right of respective container*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -102,79 +125,39 @@ main {
     margin-left: 25px;
 }
 
-/*aside articles*/
 
-.benefits {
-    padding: 16px;
+aside {
+    padding: 10px 16px 0px 16px;
     margin-right: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 98%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+.benefits h3 {
     margin-bottom: 10px;
-    text-align: center;
 }
 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
+.benefits img {
+    width: 50%;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-
-
-
-/*footer*/
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
