@@ -30,34 +30,28 @@ With little effort at most, you will have produced a well-written code with enha
 Within the index.html file, you will find an example of semantic HTML.  
 Find the CSS file within assets.  
 Browse through the HTML and CSS files to see how one may code a semantic markup.  
+To run the application, simply right click on the index.html file and click open with live server or preferred browser options.
+To see any changes you may desire to experiment with and see in real time, use the live server option.
+
+[Browsing HTML](assets\images\README_Usage-screenshot.png)
+[Reviewing Changes](assets\images\Run_README.png)
 
 
-[For the visual learners like myself =)](assets\images\README_Usage-screenshot.png)
+## Resources:  
 
-## Credits
-
-Curated by Emre Taskale 
-
-GitHub: @EM-T-Shells
-
-Resources:  
 https://christinatruong.medium.com/refactoring-html-and-css-69de73a5fb88  
 https://www.w3schools.com/html/html5_semantic_elements.asp  
 https://dev.to/jeetsdev/html-semantic-tags-why-is-it-important-to-use-semantic-html-32ek  
 https://www.w3.org/WAI/tutorials/page-structure/  
 
+
 ## License
 MIT
 
-## Badges
 
-<div align="center">
+## Credit
+Curated by Emre Taskale 
+GitHub: @EM-T-Shells
 
-!["C:\Users\Emre\Pictures\Code Logo_Badge.png"]
+![](assets\images\Code_Logo-Badge.png =300x)
 
-</div>
-
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
