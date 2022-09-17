@@ -49,8 +49,8 @@ https://www.w3.org/WAI/tutorials/page-structure/
 ![]()
 
 ## Curated by Emre Taskale ![]() ![]()   ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]()Follow me on GitHub! 
-![](assets\images\Code_Logo-Badge.png =210x) ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]()
-<a href="https://github.com/EM-T-Shells"><img alt="EM-T-Shells" src="assets\images\Octocat.png" width=210px/></a>        
+![](assets/images/code_tag.png) ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]()
+<a href="https://github.com/EM-T-Shells"><img alt="EM-T-Shells" src="assets/images/Octocat.png" width=210px/></a>        
  
 ![]()
 ![]()
@@ -62,5 +62,3 @@ https://www.w3.org/WAI/tutorials/page-structure/
 ![]()
 
 ![](https://img.shields.io/github/license/Em-t-shells/utabc-into-the-horizon?style=for-the-badge)
-
-
