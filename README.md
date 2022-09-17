@@ -43,22 +43,13 @@ https://dev.to/jeetsdev/html-semantic-tags-why-is-it-important-to-use-semantic-h
 https://www.w3.org/WAI/tutorials/page-structure/  
 
 ![]()
-
+##
 ![](https://img.shields.io/w3c-validation/default?style=for-the-badge&targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23file)
-
-![]()
-
-## Curated by Emre Taskale ![]() ![]()   ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]()Follow me on GitHub! 
-![](assets/images/code_tag.png) ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]() ![]()
-<a href="https://github.com/EM-T-Shells"><img alt="EM-T-Shells" src="assets/images/Octocat.png" width=210px/></a>        
- 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-
+## 
 ![](https://img.shields.io/github/license/Em-t-shells/utabc-into-the-horizon?style=for-the-badge)
+##
+![]()
+##
+## Curated by Emre Taskale 
+### ![]() ![]() ![]() ![]() []() ![]() Follow me on GitHub!  
+<a href="https://github.com/EM-T-Shells"><img alt="EM-T-Shells" src="assets/images/Octocat.png"/></a>  
