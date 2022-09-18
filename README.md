@@ -35,20 +35,18 @@ To see any changes you may desire to experiment with and see in real time, use t
 [Browsing HTML](assets/images/README_Usage-screenshot.png)  
 [Reviewing Changes](assets/images/Run_README.png)
 
-![]()
+
 ### Resources:  
 https://christinatruong.medium.com/refactoring-html-and-css-69de73a5fb88  
 https://www.w3schools.com/html/html5_semantic_elements.asp  
 https://dev.to/jeetsdev/html-semantic-tags-why-is-it-important-to-use-semantic-html-32ek  
 https://www.w3.org/WAI/tutorials/page-structure/  
 
-![]()
 ### [See the live Webpage](https://em-t-shells.github.io/utabc-into-the-horizon/)
-![]()
 ## ![]()
 
 ## ![](https://img.shields.io/website?label=WEBPAGE&style=for-the-badge&up_color=purple&up_message=it%27s%20alive%21&url=https%3A%2F%2Fem-t-shells.github.io%2Futabc-into-the-horizon%2F)
-##
+## ![]()
 ![](https://img.shields.io/w3c-validation/default?style=for-the-badge&targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23file)
 ## ![]()
 ## ![]()
