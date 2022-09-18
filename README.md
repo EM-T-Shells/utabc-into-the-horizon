@@ -44,10 +44,11 @@ https://www.w3.org/WAI/tutorials/page-structure/
 
 ### [See the live Webpage](https://em-t-shells.github.io/utabc-into-the-horizon/)
 
-## ![](https://img.shields.io/website?label=WEBPAGE&style=for-the-badge&up_color=purple&up_message=it%27s%20alive%21&url=https%3A%2F%2Fem-t-shells.github.io%2Futabc-into-the-horizon%2F)
+![](https://img.shields.io/website?label=WEBPAGE&style=for-the-badge&up_color=purple&up_message=it%27s%20alive%21&url=https%3A%2F%2Fem-t-shells.github.io%2Futabc-into-the-horizon%2F)
 ![](https://img.shields.io/w3c-validation/default?style=for-the-badge&targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23file)
-## ![](https://img.shields.io/github/license/Em-t-shells/utabc-into-the-horizon?style=for-the-badge)
-##
-## Curated by Emre Taskale 
+![](https://img.shields.io/github/license/Em-t-shells/utabc-into-the-horizon?style=for-the-badge)
+
+### Curated by Emre Taskale 
+
 ### Follow me on GitHub!  
-<a href="https://github.com/EM-T-Shells"><img alt="EM-T-Shells" src="assets/images/Octocat.png" | width=220/></a>  
+### [<a href="https://github.com/EM-T-Shells"><img alt="EM-T-Shells" src="assets/images/Octocat.png" width=220x/></a>]()
