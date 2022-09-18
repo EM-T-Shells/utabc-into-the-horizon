@@ -43,6 +43,8 @@ https://dev.to/jeetsdev/html-semantic-tags-why-is-it-important-to-use-semantic-h
 https://www.w3.org/WAI/tutorials/page-structure/  
 
 ![]()
+### [See the live Webpage](https://em-t-shells.github.io/utabc-into-the-horizon/)
+![]()
 ##
 ![](https://img.shields.io/w3c-validation/default?style=for-the-badge&targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23file)
 ## 
@@ -50,6 +52,6 @@ https://www.w3.org/WAI/tutorials/page-structure/
 ##
 ![]()
 ##
-## Curated by Emre Taskale 
+### Curated by Emre Taskale 
 ### ![]() ![]() ![]() ![]() []() ![]() Follow me on GitHub!  
 <a href="https://github.com/EM-T-Shells"><img alt="EM-T-Shells" src="assets/images/Octocat.png"/></a>  
