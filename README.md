@@ -19,9 +19,9 @@ With little effort at most, you will have produced a well-written code with enha
 
 ![]()
 ## Installation
-Clone this repository to your desktop
-Navigate to the Develop directory
-Open the Develop directory in your preferred code editor
+Clone this repository to your desktop  
+Navigate to the Develop directory  
+Open the Develop directory in your preferred code editor  
 
 ![]()
 
